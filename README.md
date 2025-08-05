@@ -19,7 +19,7 @@ The depth data is captured in a custom format with the `.idep` extension, which 
 
 ## Requirements
 An iOS device that provides a LiDAR camera, such as:
-- iPhone 12 Pro or later
+- iPhone 12 Pro/Max or later Pro/Max models (with LiDAR)
 - iPad Pro 11-inch (3rd generation) or later
 - iPad Pro 12.9-inch (5th generation) or later
 
